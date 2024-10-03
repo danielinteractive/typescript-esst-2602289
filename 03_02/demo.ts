@@ -3,6 +3,7 @@ export function Demo() {
   let myNumber: number = 123;
   let myBoolean: boolean = true;
 
+  // hallo!
   let myUndefined: string;
   myUndefined = "test";
   // myUndefined = true;
